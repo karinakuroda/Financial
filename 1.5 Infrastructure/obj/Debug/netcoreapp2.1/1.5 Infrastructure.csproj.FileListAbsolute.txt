@@ -1,0 +1,9 @@
+C:\Projects\FinalUnit\Financial\1.5 Infrastructure\bin\Debug\netcoreapp2.1\1.5 Infrastructure.deps.json
+C:\Projects\FinalUnit\Financial\1.5 Infrastructure\bin\Debug\netcoreapp2.1\1.5 Infrastructure.dll
+C:\Projects\FinalUnit\Financial\1.5 Infrastructure\bin\Debug\netcoreapp2.1\1.5 Infrastructure.pdb
+C:\Projects\FinalUnit\Financial\1.5 Infrastructure\obj\Debug\netcoreapp2.1\1.5 Infrastructure.csprojAssemblyReference.cache
+C:\Projects\FinalUnit\Financial\1.5 Infrastructure\obj\Debug\netcoreapp2.1\1.5 Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\FinalUnit\Financial\1.5 Infrastructure\obj\Debug\netcoreapp2.1\1.5 Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\FinalUnit\Financial\1.5 Infrastructure\obj\Debug\netcoreapp2.1\1.5 Infrastructure.AssemblyInfo.cs
+C:\Projects\FinalUnit\Financial\1.5 Infrastructure\obj\Debug\netcoreapp2.1\1.5 Infrastructure.dll
+C:\Projects\FinalUnit\Financial\1.5 Infrastructure\obj\Debug\netcoreapp2.1\1.5 Infrastructure.pdb

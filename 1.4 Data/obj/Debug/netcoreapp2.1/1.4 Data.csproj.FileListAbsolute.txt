@@ -1,0 +1,16 @@
+C:\Projects\FinalUnit\Financial\1.4 Data\bin\Debug\netcoreapp2.1\1.4 Data.deps.json
+C:\Projects\FinalUnit\Financial\1.4 Data\bin\Debug\netcoreapp2.1\1.4 Data.dll
+C:\Projects\FinalUnit\Financial\1.4 Data\bin\Debug\netcoreapp2.1\1.4 Data.pdb
+C:\Projects\FinalUnit\Financial\1.4 Data\obj\Debug\netcoreapp2.1\1.4 Data.csprojAssemblyReference.cache
+C:\Projects\FinalUnit\Financial\1.4 Data\obj\Debug\netcoreapp2.1\1.4 Data.csproj.CoreCompileInputs.cache
+C:\Projects\FinalUnit\Financial\1.4 Data\obj\Debug\netcoreapp2.1\1.4 Data.AssemblyInfoInputs.cache
+C:\Projects\FinalUnit\Financial\1.4 Data\obj\Debug\netcoreapp2.1\1.4 Data.AssemblyInfo.cs
+C:\Projects\FinalUnit\Financial\1.4 Data\obj\Debug\netcoreapp2.1\1.4 Data.dll
+C:\Projects\FinalUnit\Financial\1.4 Data\obj\Debug\netcoreapp2.1\1.4 Data.pdb
+C:\Projects\FinalUnit\Financial\1.4 Data\bin\Debug\netcoreapp2.1\1.3 Domain.dll
+C:\Projects\FinalUnit\Financial\1.4 Data\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\FinalUnit\Financial\1.4 Data\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Console.dll
+C:\Projects\FinalUnit\Financial\1.4 Data\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.dll
+C:\Projects\FinalUnit\Financial\1.4 Data\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Projects\FinalUnit\Financial\1.4 Data\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.xml
+C:\Projects\FinalUnit\Financial\1.4 Data\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Console.xml

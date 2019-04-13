@@ -1,0 +1,14 @@
+C:\Projects\FinalUnit\Financial\1.2 Application\bin\Debug\netcoreapp2.1\1.2 Application.deps.json
+C:\Projects\FinalUnit\Financial\1.2 Application\bin\Debug\netcoreapp2.1\1.2 Application.runtimeconfig.json
+C:\Projects\FinalUnit\Financial\1.2 Application\bin\Debug\netcoreapp2.1\1.2 Application.runtimeconfig.dev.json
+C:\Projects\FinalUnit\Financial\1.2 Application\bin\Debug\netcoreapp2.1\1.2 Application.dll
+C:\Projects\FinalUnit\Financial\1.2 Application\bin\Debug\netcoreapp2.1\1.2 Application.pdb
+C:\Projects\FinalUnit\Financial\1.2 Application\obj\Debug\netcoreapp2.1\1.2 Application.csprojAssemblyReference.cache
+C:\Projects\FinalUnit\Financial\1.2 Application\obj\Debug\netcoreapp2.1\1.2 Application.csproj.CoreCompileInputs.cache
+C:\Projects\FinalUnit\Financial\1.2 Application\obj\Debug\netcoreapp2.1\1.2 Application.RazorAssemblyInfo.cache
+C:\Projects\FinalUnit\Financial\1.2 Application\obj\Debug\netcoreapp2.1\1.2 Application.RazorAssemblyInfo.cs
+C:\Projects\FinalUnit\Financial\1.2 Application\obj\Debug\netcoreapp2.1\1.2 Application.AssemblyInfoInputs.cache
+C:\Projects\FinalUnit\Financial\1.2 Application\obj\Debug\netcoreapp2.1\1.2 Application.AssemblyInfo.cs
+C:\Projects\FinalUnit\Financial\1.2 Application\obj\Debug\netcoreapp2.1\1.2 Application.RazorTargetAssemblyInfo.cache
+C:\Projects\FinalUnit\Financial\1.2 Application\obj\Debug\netcoreapp2.1\1.2 Application.dll
+C:\Projects\FinalUnit\Financial\1.2 Application\obj\Debug\netcoreapp2.1\1.2 Application.pdb
