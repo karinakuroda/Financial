@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\FinalUnit\\Financial\\1.5 Infrastructure\\1.5 Infrastructure.csproj",
-      "projectName": "1.5 Infrastructure",
-      "projectPath": "C:\\Projects\\FinalUnit\\Financial\\1.5 Infrastructure\\1.5 Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\user-admin\\Desktop\\Karina\\Financial\\1.5 Infrastructure\\Infrastructure.csproj",
+      "projectName": "Infrastructure",
+      "projectPath": "C:\\Users\\user-admin\\Desktop\\Karina\\Financial\\1.5 Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\user-admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\FinalUnit\\Financial\\1.5 Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\user-admin\\Desktop\\Karina\\Financial\\1.5 Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

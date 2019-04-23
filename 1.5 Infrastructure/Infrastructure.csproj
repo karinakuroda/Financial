@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>_1._5_Infrastructure</RootNamespace>
+    <RootNamespace>Infrastructure</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

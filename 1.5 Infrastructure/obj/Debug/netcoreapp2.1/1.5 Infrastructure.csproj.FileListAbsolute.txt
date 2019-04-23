@@ -7,3 +7,12 @@ C:\Projects\FinalUnit\Financial\1.5 Infrastructure\obj\Debug\netcoreapp2.1\1.5 I
 C:\Projects\FinalUnit\Financial\1.5 Infrastructure\obj\Debug\netcoreapp2.1\1.5 Infrastructure.AssemblyInfo.cs
 C:\Projects\FinalUnit\Financial\1.5 Infrastructure\obj\Debug\netcoreapp2.1\1.5 Infrastructure.dll
 C:\Projects\FinalUnit\Financial\1.5 Infrastructure\obj\Debug\netcoreapp2.1\1.5 Infrastructure.pdb
+C:\Users\user-admin\Desktop\Karina\Financial\1.5 Infrastructure\bin\Debug\netcoreapp2.1\1.5 Infrastructure.deps.json
+C:\Users\user-admin\Desktop\Karina\Financial\1.5 Infrastructure\bin\Debug\netcoreapp2.1\1.5 Infrastructure.dll
+C:\Users\user-admin\Desktop\Karina\Financial\1.5 Infrastructure\bin\Debug\netcoreapp2.1\1.5 Infrastructure.pdb
+C:\Users\user-admin\Desktop\Karina\Financial\1.5 Infrastructure\obj\Debug\netcoreapp2.1\1.5 Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user-admin\Desktop\Karina\Financial\1.5 Infrastructure\obj\Debug\netcoreapp2.1\1.5 Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user-admin\Desktop\Karina\Financial\1.5 Infrastructure\obj\Debug\netcoreapp2.1\1.5 Infrastructure.AssemblyInfo.cs
+C:\Users\user-admin\Desktop\Karina\Financial\1.5 Infrastructure\obj\Debug\netcoreapp2.1\1.5 Infrastructure.dll
+C:\Users\user-admin\Desktop\Karina\Financial\1.5 Infrastructure\obj\Debug\netcoreapp2.1\1.5 Infrastructure.pdb
+C:\Users\user-admin\Desktop\Karina\Financial\1.5 Infrastructure\obj\Debug\netcoreapp2.1\1.5 Infrastructure.csprojAssemblyReference.cache

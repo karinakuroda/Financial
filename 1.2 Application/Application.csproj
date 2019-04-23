@@ -2,11 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>_1._3_Domain</RootNamespace>
+    <RootNamespace>Application</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Core\Interface\Repository\" />
     <Folder Include="Service\" />
   </ItemGroup>
 
